@@ -1,2 +1,2 @@
-# WSL_Windows_Subsystem_for_Linux
-Let's Explorer
+# Rails on Linux on Windows ¯\_(ツ)_/¯
+It's all good!
